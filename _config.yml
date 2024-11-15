@@ -204,7 +204,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -228,10 +228,10 @@ kramdown:
 # Includes & excludes
 include:
   - _pages/about.md
-  - _pages/blog.md
   - _pages/publications.md
   - _pages/cv.md
 exclude:
+  - _pages/blog.md
   - _pages/about_einstein.md
   - _pages/404.md
   - _pages/dropdown.md
@@ -256,7 +256,7 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - purgecss.config.js
-  - README.md
+  - MyNote.md
   - readme_preview/
   - vendor
 keep_files:
@@ -324,8 +324,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Tran]
+  first_name: [Tuyen]
 
   style: apa
   locale: en
