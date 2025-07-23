@@ -106,6 +106,20 @@
     }
   ],
   "publications": [
+      {
+      "name": "Planner-Refiner: Dynamic Space-Time Refinement for Vision-Language Alignment in Videos",
+      "publisher": "European Conference on Artificial Intelligence  2025",
+      "releaseDate": "2025-12-07",
+      "url": "",
+      "summary": "We propose Planner-Refiner, a novel framework that dynamically refines the alignment between visual and textual modalities in videos. Our approach leverages a two-stage refinement process, enhancing the robustness of vision-language models in video understanding tasks."
+    },
+          {
+      "name": "Towards Agentic AI for Multimodal-Guided Video Object Segmentation",
+      "publisher": "4th Workshop on What is Next in Multimodal Foundation Models? at ICCV 2025",
+      "releaseDate": "2025-10-07",
+      "url": "",
+      "summary": "We propose an agentic AI system for multimodal-guided video object segmentation"
+    },
     {
       "name": "Unified Compositional Query Machine with Multimodal Consistency for Video-based Human Activity Recognition",
       "publisher": "British Machine Vision Conference 2024",
