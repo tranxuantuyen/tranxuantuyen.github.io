@@ -15,3 +15,4 @@ sudo docker compose up
 - In the `_config.yaml`, could use either > (Collapses newlines into spaces) or | (Preserves newlines exactly as they appear)
 - The way to add citation to the writing
 - CV could be also included at `_data/cv.yml`
+- Update paper in publication at `_bibliography/my_paper.bib`, while in selected papers, it is at `_bibliography/papers.bib`
